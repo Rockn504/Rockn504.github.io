@@ -3,16 +3,22 @@
 * {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
-    background-color: rgb(233, 75, 75);
+    background-color: rgb(30, 28, 28);
+    color: white;
 }
 h1.Header {
    
     font-size: 3em;
-    color: rgb(86, 86, 246);
+    color: rgb(15, 207, 12);
 
+}
+h1.title {
+
+    color: rgba(150, 6, 150, 0.767);
 }
 h2 {
     font-size: 1.5 em;
+    
 }
 
 h3 {
@@ -35,13 +41,18 @@ p.description {
     * {
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         text-align: center;
-        background-color: rgb(233, 75, 75);
+        background-color: rgb(30, 28, 28);
+        color: white;
     }
     h1.Header {
        
         font-size: 3em;
-        color: rgb(86, 86, 246);
-    
+        color: rgb(15, 207, 12);
+
+    }
+    h1.title {
+        color: rgba(150, 6, 150, 0.767);
+
     }
     h2 {
         font-size: 1.5 em;
@@ -66,12 +77,13 @@ p.description {
     * {
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         text-align: center;
-        background-color: rgb(233, 75, 75);
+        background-color: rgb(30, 28, 28);
+        color: white;
     }
     h1.Header {
        
         font-size: 3em;
-        color: rgb(86, 86, 246);
+        color: rgb(15, 207, 12);
     
     }
     h2 {
